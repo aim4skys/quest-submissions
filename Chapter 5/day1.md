@@ -11,4 +11,4 @@ Yes, Jacob = 5.
 #### numberTwo
 Yes, Jacob = 5. 5>=0.
 #### numberThree
-Yes, self. number = 1.
+No, self. number = 0.
